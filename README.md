@@ -5,11 +5,12 @@
 Its an ecommerce web application inspired by amazon.
 
 ## Techonologies and tools used
-React js, Node js , Express , Mongodb
+React js, Node js , Express , Mongodb.
+
  Its a mern stack project.
  
 
-## Screenshot of how the project will look
+## Screenshot of how the project will look.
 
 ![Screenshot (269)](https://user-images.githubusercontent.com/109866847/230704629-ff637178-063f-441d-8599-68e3ee8f5eb4.png)
 
