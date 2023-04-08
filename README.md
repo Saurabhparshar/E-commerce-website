@@ -12,7 +12,9 @@ React js, Node js , Express , Mongodb.
 
 ## Screenshot of how the project will look.
 
-![Screenshot (269)](https://user-images.githubusercontent.com/109866847/230704629-ff637178-063f-441d-8599-68e3ee8f5eb4.png)
+
+
+![Screenshot (274)](https://user-images.githubusercontent.com/109866847/230704874-af304a59-18e9-4c13-8888-2a7b5badffa3.png)
 
 
 ![Screenshot (270)](https://user-images.githubusercontent.com/109866847/230704633-b2e848d8-8e9d-4f78-b4cd-979a86062ba5.png)
