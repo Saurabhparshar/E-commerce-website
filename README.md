@@ -1,6 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
+## E-COMMERCE web application
+
+Its an ecommerce web application inspired by amazon.
+
+## Techonologies and tools used
+React js, Node js , Express , Mongodb
+ Its a mern stack project.
+ 
+
+
 
 In the project directory, you can run:
 
