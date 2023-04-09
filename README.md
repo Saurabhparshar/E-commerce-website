@@ -1,5 +1,3 @@
-
-
 ## E-COMMERCE web application
 
 Its an ecommerce web application inspired by amazon.
@@ -20,6 +18,7 @@ React js, Node js , Express , Mongodb.
 
 
 ![Screenshot (274)](https://user-images.githubusercontent.com/109866847/230704874-af304a59-18e9-4c13-8888-2a7b5badffa3.png)
+
 
 
 ![Screenshot (270)](https://user-images.githubusercontent.com/109866847/230704633-b2e848d8-8e9d-4f78-b4cd-979a86062ba5.png)
