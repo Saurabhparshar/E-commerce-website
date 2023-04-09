@@ -13,7 +13,7 @@ React js, Node js , Express , Mongodb.
 [saurabh-shopping-website.netlify.app/](https://saurabh-shopping-website.netlify.app/)
 
 
-## Screenshot of how the project will look.
+## Screenshot of how the project will look 
 
 
 
@@ -22,6 +22,7 @@ React js, Node js , Express , Mongodb.
 
 
 ![Screenshot (270)](https://user-images.githubusercontent.com/109866847/230704633-b2e848d8-8e9d-4f78-b4cd-979a86062ba5.png)
+
 
 
 ![Screenshot (272)](https://user-images.githubusercontent.com/109866847/230704637-1d5a9649-5b2e-46d5-87b5-94b2e9cee3b0.png)
