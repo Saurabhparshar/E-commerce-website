@@ -1,4 +1,4 @@
-## E-COMMERCE web application
+## An E-COMMERCE web application
 
 Its an ecommerce web application inspired by amazon.
 
