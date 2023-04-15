@@ -8,7 +8,7 @@ React js, Node js , Express , Mongodb.
  Its a mern stack project.
  
  
-## Demo of the project.
+## Demo of the project
 
 [saurabh-shopping-website.netlify.app/](https://saurabh-shopping-website.netlify.app/)
 
