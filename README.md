@@ -1,6 +1,6 @@
 ## An E-COMMERCE web application
 
-Its an ecommerce web application inspired by amazon.
+It,s an ecommerce web application inspired by amazon.
 
 ## Techonologies and tools used
 React js, Node js , Express , Mongodb , Javascript .
