@@ -1,4 +1,4 @@
-## An E-COMMERCE web application
+## An E-COMMERCE web application :)
 
 It's an ecommerce web application inspired by amazon.
 
@@ -8,7 +8,7 @@ React js, Node js , Express , MongoDB , Javascript .
  It's a MERN STACK project.
  
  
-## Demo of the project
+## Demo of the project 
 
 [saurabh-shopping-website.netlify.app/](https://saurabh-shopping-website.netlify.app/)
 
