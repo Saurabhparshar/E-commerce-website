@@ -13,7 +13,7 @@ React js, Node js , Express , MongoDB , Javascript .
 [saurabh-shopping-website.netlify.app/](https://saurabh-shopping-website.netlify.app/)
 
 
-## Screenshot of how the project will look : )
+## Screenshot of how the project will look  : )
 
 
 
